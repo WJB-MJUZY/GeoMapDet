@@ -1,7 +1,11 @@
 ---------------------------------------------------------------------------|
 
 Deep learning framework for geological symbol detection on geological maps 
-                                                                          
+
+
+Please unzip the zip files and read the following tutorial. 
+
+
 How to use the datasets:                                                   
                                                                            
     Datasets used for the experiments articulated in the paper have been   
