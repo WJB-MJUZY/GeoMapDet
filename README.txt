@@ -18,7 +18,7 @@ documents named in this format are referred to the experiments mentioned in
 Section 5.2, where `Chg` is the compound symbol name and the `1` denotes   
 the number of the `Chg` existing in the modified dataset.                 
 																		   
-	Please use `labelme` (a site package of python) to visualize the raw   
+    Please use `labelme` (a site package of python) to visualize the raw   
 datasets (see ./SSDN_DATASET_RAW and ./DAGCN_DATASET_RAW). The interpretation 
 of the marks for `DAGCN_DATASET_RAW` is located in the APPENDIX B of this file. 																   
                                                                            
